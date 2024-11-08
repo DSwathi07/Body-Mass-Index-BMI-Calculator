@@ -23,4 +23,3 @@ if __name__ == "_main_":
         # Ask if the user wants to roll again
         roll_again = input("Do you want to roll again? (yes/no): ").lower()
         if roll_again != "yes":
-            print("Thanks for playing!")﻿# Body-Mass-Index-BMI-Calculator
